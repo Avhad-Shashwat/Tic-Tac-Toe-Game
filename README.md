@@ -1,9 +1,6 @@
 
 # Tic-Tac-Toe Game
 
-![Tic-Tac-Toe](![image](https://github.com/user-attachments/assets/4c037b11-719d-402e-8a05-1183de3ce80e)
-)
-
 ## Introduction
 
 Welcome to the Tic-Tac-Toe game project! This is a simple, fun, and interactive game built using HTML, CSS, and JavaScript. It allows two players to play the classic game of Tic-Tac-Toe in their web browsers. The game detects the winner and announces the result, making it a great example of basic game development using web technologies.
@@ -14,13 +11,6 @@ Welcome to the Tic-Tac-Toe game project! This is a simple, fun, and interactive 
 - **Winner Detection**: Automatically detects and announces the winner.
 - **Reset Functionality**: Easily reset the game to play again.
 - **Responsive Design**: Optimized for various screen sizes.
-
-## Screenshots
-
-![Game Screenshot](![image](https://github.com/user-attachments/assets/9f99dfa8-3a2a-4bb6-8303-eab236a5b5f1)
-)
-![Winner Announcement](![image](https://github.com/user-attachments/assets/f138d8cc-4f5c-4824-ab58-caf8f8ee5fa7)
-)
 
 ## Technologies Used
 
